@@ -1,0 +1,5539 @@
+{
+	"type": "FeatureCollection",
+	"properties": {
+		"name": "Lexifier language for atlas map",
+		"layer": "",
+		"domain": [
+			{
+				"name": "English-based",
+				"coordinates": [-2.547859, 54.003644],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-1"
+			},
+			{
+				"name": "Dutch-based",
+				"coordinates": [5.2913, 52.1326],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojQUREOEU2OyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-7"
+			},
+			{
+				"name": "Portuguese-based",
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-3"
+			},
+			{
+				"name": "Spanish-based",
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkY3RjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-4"
+			},
+			{
+				"name": "French-based",
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-2"
+			},
+			{
+				"name": "Arabic-based",
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODAwMDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-5"
+			},
+			{
+				"name": "Bantu-based",
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-6"
+			},
+			{
+				"name": "Malay-based",
+				"coordinates": [101.9758, 4.2105],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZCNkMxOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-8"
+			},
+			{
+				"name": "Other-based",
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"id": "0-9"
+			}
+		]
+	},
+	"features": [
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.12207, 37.282795]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "African American English",
+				"name": "African American English",
+				"values": [
+					{
+						"pk": 17765,
+						"valueset": {
+							"pk": 16210,
+							"description": null,
+							"contribution_pk": 14,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 14,
+							"id": "14-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "14-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16210,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -85.12207,
+					"lexifier": "English",
+					"region": "North America",
+					"survey_pk": 14,
+					"markup_description": null,
+					"pk": 14,
+					"latitude": 37.282795,
+					"jsondata": {},
+					"name": "African American English",
+					"language_pk": null,
+					"id": "14"
+				}
+			},
+			"id": "14"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [18.6, -33.866669]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Afrikaans",
+				"name": "Afrikaans",
+				"values": [
+					{
+						"pk": 17766,
+						"valueset": {
+							"pk": 16211,
+							"description": null,
+							"contribution_pk": 29,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-ADD8E6.png"
+							},
+							"source": null,
+							"language_pk": 29,
+							"id": "29-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 7,
+							"description": null,
+							"number": 2,
+							"jsondata": {
+								"color": "ADD8E6",
+								"icon": "pie-100-ADD8E6.png"
+							},
+							"name": "Dutch-based",
+							"abbr": "Dutch-based",
+							"id": "0-7",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 7,
+						"id": "29-0-7",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16211,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojQUREOEU2OyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 18.6,
+					"lexifier": "Dutch",
+					"region": "Southern Africa",
+					"survey_pk": 29,
+					"markup_description": null,
+					"pk": 29,
+					"latitude": -33.866669,
+					"jsondata": {},
+					"name": "Afrikaans",
+					"language_pk": null,
+					"id": "29"
+				}
+			},
+			"id": "29"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [128.149994, -3.7]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Ambon Malay",
+				"name": "Ambon Malay",
+				"values": [
+					{
+						"pk": 17767,
+						"valueset": {
+							"pk": 16212,
+							"description": null,
+							"contribution_pk": 68,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFB6C1.png"
+							},
+							"source": null,
+							"language_pk": 68,
+							"id": "68-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 8,
+							"description": null,
+							"number": 8,
+							"jsondata": {
+								"color": "FFB6C1",
+								"icon": "pie-100-FFB6C1.png"
+							},
+							"name": "Malay-based",
+							"abbr": "Malay-based",
+							"id": "0-8",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 8,
+						"id": "68-0-8",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16212,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZCNkMxOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 128.149994,
+					"lexifier": "Malay",
+					"region": "Southeast Asia",
+					"survey_pk": 68,
+					"markup_description": null,
+					"pk": 68,
+					"latitude": -3.7,
+					"jsondata": {},
+					"name": "Ambon Malay",
+					"language_pk": null,
+					"id": "68"
+				}
+			},
+			"id": "68"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [6.48, 0.134582]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Angolar",
+				"name": "Angolar",
+				"values": [
+					{
+						"pk": 17768,
+						"valueset": {
+							"pk": 16213,
+							"description": null,
+							"contribution_pk": 36,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 36,
+							"id": "36-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "36-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16213,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 6.48,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 36,
+					"markup_description": null,
+					"pk": 36,
+					"latitude": 0.134582,
+					"jsondata": {},
+					"name": "Angolar",
+					"language_pk": null,
+					"id": "36"
+				}
+			},
+			"id": "36"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.33963, 25.053879]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Bahamian Creole",
+				"name": "Bahamian Creole",
+				"values": [
+					{
+						"pk": 17769,
+						"valueset": {
+							"pk": 16214,
+							"description": null,
+							"contribution_pk": 12,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 12,
+							"id": "12-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "12-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16214,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -77.33963,
+					"lexifier": "English",
+					"region": "North America",
+					"survey_pk": 12,
+					"markup_description": null,
+					"pk": 12,
+					"latitude": 25.053879,
+					"jsondata": {},
+					"name": "Bahamian Creole",
+					"language_pk": null,
+					"id": "12"
+				}
+			},
+			"id": "12"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.183334, -6.716667]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Batavia Creole",
+				"name": "Batavia Creole",
+				"values": [
+					{
+						"pk": 17770,
+						"valueset": {
+							"pk": 16215,
+							"description": null,
+							"contribution_pk": 43,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 43,
+							"id": "43-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "43-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16215,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 107.183334,
+					"lexifier": "Portuguese",
+					"region": "Southeast Asia",
+					"survey_pk": 43,
+					"markup_description": null,
+					"pk": 43,
+					"latitude": -6.716667,
+					"jsondata": {},
+					"name": "Batavia Creole",
+					"language_pk": null,
+					"id": "43"
+				}
+			},
+			"id": "43"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [104.9, 1.329226]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Singapore Bazaar Malay",
+				"name": "Singapore Bazaar Malay",
+				"values": [
+					{
+						"pk": 17771,
+						"valueset": {
+							"pk": 16216,
+							"description": null,
+							"contribution_pk": 67,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFB6C1.png"
+							},
+							"source": null,
+							"language_pk": 67,
+							"id": "67-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 8,
+							"description": null,
+							"number": 8,
+							"jsondata": {
+								"color": "FFB6C1",
+								"icon": "pie-100-FFB6C1.png"
+							},
+							"name": "Malay-based",
+							"abbr": "Malay-based",
+							"id": "0-8",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 8,
+						"id": "67-0-8",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16216,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZCNkMxOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 104.9,
+					"lexifier": "Malay",
+					"region": "Southeast Asia",
+					"survey_pk": 67,
+					"markup_description": null,
+					"pk": 67,
+					"latitude": 1.329226,
+					"jsondata": {},
+					"name": "Singapore Bazaar Malay",
+					"language_pk": null,
+					"id": "67"
+				}
+			},
+			"id": "67"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.25, 17.533333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Belizean Creole",
+				"name": "Belizean Creole",
+				"values": [
+					{
+						"pk": 17772,
+						"valueset": {
+							"pk": 16217,
+							"description": null,
+							"contribution_pk": 9,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 9,
+							"id": "9-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "9-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16217,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -88.25,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 9,
+					"markup_description": null,
+					"pk": 9,
+					"latitude": 17.533333,
+					"jsondata": {},
+					"name": "Belizean Creole",
+					"language_pk": null,
+					"id": "9"
+				}
+			},
+			"id": "9"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-57.870827, 5.611373]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Berbice Dutch",
+				"name": "Berbice Dutch",
+				"values": [
+					{
+						"pk": 17773,
+						"valueset": {
+							"pk": 16218,
+							"description": null,
+							"contribution_pk": 28,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-ADD8E6.png"
+							},
+							"source": null,
+							"language_pk": 28,
+							"id": "28-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 7,
+							"description": null,
+							"number": 2,
+							"jsondata": {
+								"color": "ADD8E6",
+								"icon": "pie-100-ADD8E6.png"
+							},
+							"name": "Dutch-based",
+							"abbr": "Dutch-based",
+							"id": "0-7",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 7,
+						"id": "28-0-7",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16218,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojQUREOEU2OyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -57.870827,
+					"lexifier": "Dutch",
+					"region": "Caribbean",
+					"survey_pk": 28,
+					"markup_description": null,
+					"pk": 28,
+					"latitude": 5.611373,
+					"jsondata": {},
+					"name": "Berbice Dutch",
+					"language_pk": null,
+					"id": "28"
+				}
+			},
+			"id": "28"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [168.0, -16.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Bislama",
+				"name": "Bislama",
+				"values": [
+					{
+						"pk": 17774,
+						"valueset": {
+							"pk": 16219,
+							"description": null,
+							"contribution_pk": 23,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 23,
+							"id": "23-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "23-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16219,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 168.0,
+					"lexifier": "English",
+					"region": "Pacific",
+					"survey_pk": 23,
+					"markup_description": null,
+					"pk": 23,
+					"latitude": -16.0,
+					"jsondata": {},
+					"name": "Bislama",
+					"language_pk": null,
+					"id": "23"
+				}
+			},
+			"id": "23"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.966667, 3.383333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Cameroon Pidgin English",
+				"name": "Cameroon Pidgin English",
+				"values": [
+					{
+						"pk": 17775,
+						"valueset": {
+							"pk": 16220,
+							"description": null,
+							"contribution_pk": 18,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 18,
+							"id": "18-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "18-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16220,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 9.966667,
+					"lexifier": "English",
+					"region": "West Africa",
+					"survey_pk": 18,
+					"markup_description": null,
+					"pk": 18,
+					"latitude": 3.383333,
+					"jsondata": {},
+					"name": "Cameroon Pidgin English",
+					"language_pk": null,
+					"id": "18"
+				}
+			},
+			"id": "18"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-24.8, 14.833333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Cape Verdean Creole of Brava",
+				"name": "Cape Verdean Creole of Brava",
+				"values": [
+					{
+						"pk": 17776,
+						"valueset": {
+							"pk": 16221,
+							"description": null,
+							"contribution_pk": 31,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 31,
+							"id": "31-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "31-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16221,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -24.8,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 31,
+					"markup_description": null,
+					"pk": 31,
+					"latitude": 14.833333,
+					"jsondata": {},
+					"name": "Cape Verdean Creole of Brava",
+					"language_pk": null,
+					"id": "31"
+				}
+			},
+			"id": "31"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-22.616667, 15.083333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Cape Verdean Creole of Santiago",
+				"name": "Cape Verdean Creole of Santiago",
+				"values": [
+					{
+						"pk": 17777,
+						"valueset": {
+							"pk": 16222,
+							"description": null,
+							"contribution_pk": 30,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 30,
+							"id": "30-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "30-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16222,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -22.616667,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 30,
+					"markup_description": null,
+					"pk": 30,
+					"latitude": 15.083333,
+					"jsondata": {},
+					"name": "Cape Verdean Creole of Santiago",
+					"language_pk": null,
+					"id": "30"
+				}
+			},
+			"id": "30"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-24.983334, 16.866667]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Cape Verdean Creole of S\u00e3o Vicente",
+				"name": "Cape Verdean Creole of S\u00e3o Vicente",
+				"values": [
+					{
+						"pk": 17778,
+						"valueset": {
+							"pk": 16223,
+							"description": null,
+							"contribution_pk": 32,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 32,
+							"id": "32-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "32-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16223,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -24.983334,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 32,
+					"markup_description": null,
+					"pk": 32,
+					"latitude": 16.866667,
+					"jsondata": {},
+					"name": "Cape Verdean Creole of S\u00e3o Vicente",
+					"language_pk": null,
+					"id": "32"
+				}
+			},
+			"id": "32"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [113.334961, 23.079733]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Chinese Pidgin English",
+				"name": "Chinese Pidgin English",
+				"values": [
+					{
+						"pk": 17779,
+						"valueset": {
+							"pk": 16224,
+							"description": null,
+							"contribution_pk": 20,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 20,
+							"id": "20-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "20-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16224,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 113.334961,
+					"lexifier": "English",
+					"region": "East Asia",
+					"survey_pk": 20,
+					"markup_description": null,
+					"pk": 20,
+					"latitude": 23.079733,
+					"jsondata": {},
+					"name": "Chinese Pidgin English",
+					"language_pk": null,
+					"id": "20"
+				}
+			},
+			"id": "20"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [134.0, 48.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Chinese Pidgin Russian",
+				"name": "Chinese Pidgin Russian",
+				"values": [
+					{
+						"pk": 17780,
+						"valueset": {
+							"pk": 16225,
+							"description": null,
+							"contribution_pk": 65,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 65,
+							"id": "65-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "65-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16225,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 134.0,
+					"lexifier": "Other",
+					"region": "East Asia",
+					"survey_pk": 65,
+					"markup_description": null,
+					"pk": 65,
+					"latitude": 48.0,
+					"jsondata": {},
+					"name": "Chinese Pidgin Russian",
+					"language_pk": null,
+					"id": "65"
+				}
+			},
+			"id": "65"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-127.73333, 53.700001]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Chinuk Wawa",
+				"name": "Chinuk Wawa",
+				"values": [
+					{
+						"pk": 17781,
+						"valueset": {
+							"pk": 16226,
+							"description": null,
+							"contribution_pk": 74,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 74,
+							"id": "74-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "74-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16226,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -127.73333,
+					"lexifier": "Other",
+					"region": "North America",
+					"survey_pk": 74,
+					"markup_description": null,
+					"pk": 74,
+					"latitude": 53.700001,
+					"jsondata": {},
+					"name": "Chinuk Wawa",
+					"language_pk": null,
+					"id": "74"
+				}
+			},
+			"id": "74"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [70.984726, 20.713087]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Diu Indo-Portuguese",
+				"name": "Diu Indo-Portuguese",
+				"values": [
+					{
+						"pk": 17782,
+						"valueset": {
+							"pk": 16227,
+							"description": null,
+							"contribution_pk": 39,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 39,
+							"id": "39-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "39-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16227,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 70.984726,
+					"lexifier": "Portuguese",
+					"region": "South Asia",
+					"survey_pk": 39,
+					"markup_description": null,
+					"pk": 39,
+					"latitude": 20.713087,
+					"jsondata": {},
+					"name": "Diu Indo-Portuguese",
+					"language_pk": null,
+					"id": "39"
+				}
+			},
+			"id": "39"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-55.6, 5.833333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Early Sranan",
+				"name": "Early Sranan",
+				"values": [
+					{
+						"pk": 17783,
+						"valueset": {
+							"pk": 16228,
+							"description": null,
+							"contribution_pk": 1,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 1,
+							"id": "1-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "1-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16228,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -55.6,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 1,
+					"markup_description": null,
+					"pk": 1,
+					"latitude": 5.833333,
+					"jsondata": {},
+					"name": "Early Sranan",
+					"language_pk": null,
+					"id": "1"
+				}
+			},
+			"id": "1"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-152.006836, 70.110481]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Eskimo Pidgin",
+				"name": "Eskimo Pidgin",
+				"values": [
+					{
+						"pk": 17784,
+						"valueset": {
+							"pk": 16229,
+							"description": null,
+							"contribution_pk": 76,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 76,
+							"id": "76-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "76-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16229,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -152.006836,
+					"lexifier": "Other",
+					"region": "North America",
+					"survey_pk": 76,
+					"markup_description": null,
+					"pk": 76,
+					"latitude": 70.110481,
+					"jsondata": {},
+					"name": "Eskimo Pidgin",
+					"language_pk": null,
+					"id": "76"
+				}
+			},
+			"id": "76"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [5.633333, -1.433333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Fa d\u2019Amb\u00f4",
+				"name": "Fa d\u2019Amb\u00f4",
+				"values": [
+					{
+						"pk": 17785,
+						"valueset": {
+							"pk": 16230,
+							"description": null,
+							"contribution_pk": 38,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 38,
+							"id": "38-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "38-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16230,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 5.633333,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 38,
+					"markup_description": null,
+					"pk": 38,
+					"latitude": -1.433333,
+					"jsondata": {},
+					"name": "Fa d\u2019Amb\u00f4",
+					"language_pk": null,
+					"id": "38"
+				}
+			},
+			"id": "38"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [30.855103, -28.532656]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Fanakalo",
+				"name": "Fanakalo",
+				"values": [
+					{
+						"pk": 17786,
+						"valueset": {
+							"pk": 16231,
+							"description": null,
+							"contribution_pk": 61,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-000000.png"
+							},
+							"source": null,
+							"language_pk": 61,
+							"id": "61-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 6,
+							"description": null,
+							"number": 7,
+							"jsondata": {
+								"color": "000000",
+								"icon": "pie-100-000000.png"
+							},
+							"name": "Bantu-based",
+							"abbr": "Bantu-based",
+							"id": "0-6",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 6,
+						"id": "61-0-6",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16231,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 30.855103,
+					"lexifier": "Bantu",
+					"region": "Southern Africa",
+					"survey_pk": 61,
+					"markup_description": null,
+					"pk": 61,
+					"latitude": -28.532656,
+					"jsondata": {},
+					"name": "Fanakalo",
+					"language_pk": null,
+					"id": "61"
+				}
+			},
+			"id": "61"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.20874, 5.558582]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Ghanaian Pidgin English",
+				"name": "Ghanaian Pidgin English",
+				"values": [
+					{
+						"pk": 17787,
+						"valueset": {
+							"pk": 16232,
+							"description": null,
+							"contribution_pk": 16,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 16,
+							"id": "16-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "16-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16232,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -0.20874,
+					"lexifier": "English",
+					"region": "West Africa",
+					"survey_pk": 16,
+					"markup_description": null,
+					"pk": 16,
+					"latitude": 5.558582,
+					"jsondata": {},
+					"name": "Ghanaian Pidgin English",
+					"language_pk": null,
+					"id": "16"
+				}
+			},
+			"id": "16"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.266666, 15.933333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Guadeloupean Creole",
+				"name": "Guadeloupean Creole",
+				"values": [
+					{
+						"pk": 17788,
+						"valueset": {
+							"pk": 16233,
+							"description": null,
+							"contribution_pk": 50,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 50,
+							"id": "50-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "50-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16233,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -61.266666,
+					"lexifier": "French",
+					"region": "Caribbean",
+					"survey_pk": 50,
+					"markup_description": null,
+					"pk": 50,
+					"latitude": 15.933333,
+					"jsondata": {},
+					"name": "Guadeloupean Creole",
+					"language_pk": null,
+					"id": "50"
+				}
+			},
+			"id": "50"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-15.0, 11.9]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Guinea-Bissau Kriyol",
+				"name": "Guinea-Bissau Kriyol",
+				"values": [
+					{
+						"pk": 17789,
+						"valueset": {
+							"pk": 16234,
+							"description": null,
+							"contribution_pk": 33,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 33,
+							"id": "33-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "33-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16234,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -15.0,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 33,
+					"markup_description": null,
+					"pk": 33,
+					"latitude": 11.9,
+					"jsondata": {},
+					"name": "Guinea-Bissau Kriyol",
+					"language_pk": null,
+					"id": "33"
+				}
+			},
+			"id": "33"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.5, 31.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Gullah",
+				"name": "Gullah",
+				"values": [
+					{
+						"pk": 17790,
+						"valueset": {
+							"pk": 16235,
+							"description": null,
+							"contribution_pk": 13,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 13,
+							"id": "13-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "13-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16235,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -81.5,
+					"lexifier": "English",
+					"region": "North America",
+					"survey_pk": 13,
+					"markup_description": null,
+					"pk": 13,
+					"latitude": 31.0,
+					"jsondata": {},
+					"name": "Gullah",
+					"language_pk": null,
+					"id": "13"
+				}
+			},
+			"id": "13"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-51.792297, 3.922142]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Guyanais",
+				"name": "Guyanais",
+				"values": [
+					{
+						"pk": 17793,
+						"valueset": {
+							"pk": 16237,
+							"description": null,
+							"contribution_pk": 52,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 52,
+							"id": "52-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "52-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16237,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -51.792297,
+					"lexifier": "French",
+					"region": "Caribbean",
+					"survey_pk": 52,
+					"markup_description": null,
+					"pk": 52,
+					"latitude": 3.922142,
+					"jsondata": {},
+					"name": "Guyanais",
+					"language_pk": null,
+					"id": "52"
+				}
+			},
+			"id": "52"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-58.166668, 6.8]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Creolese",
+				"name": "Creolese",
+				"values": [
+					{
+						"pk": 17794,
+						"valueset": {
+							"pk": 16238,
+							"description": null,
+							"contribution_pk": 5,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 5,
+							"id": "5-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "5-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16238,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -58.166668,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 5,
+					"markup_description": null,
+					"pk": 5,
+					"latitude": 6.8,
+					"jsondata": {},
+					"name": "Creolese",
+					"language_pk": null,
+					"id": "5"
+				}
+			},
+			"id": "5"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.5, 19.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Haitian Creole",
+				"name": "Haitian Creole",
+				"values": [
+					{
+						"pk": 17795,
+						"valueset": {
+							"pk": 16239,
+							"description": null,
+							"contribution_pk": 49,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 49,
+							"id": "49-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "49-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16239,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -72.5,
+					"lexifier": "French",
+					"region": "Caribbean",
+					"survey_pk": 49,
+					"markup_description": null,
+					"pk": 49,
+					"latitude": 19.0,
+					"jsondata": {},
+					"name": "Haitian Creole",
+					"language_pk": null,
+					"id": "49"
+				}
+			},
+			"id": "49"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-158.0, 21.5]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Hawai\u2018i Creole",
+				"name": "Hawai\u2018i Creole",
+				"values": [
+					{
+						"pk": 17796,
+						"valueset": {
+							"pk": 16240,
+							"description": null,
+							"contribution_pk": 26,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 26,
+							"id": "26-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "26-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16240,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -158.0,
+					"lexifier": "English",
+					"region": "Pacific",
+					"survey_pk": 26,
+					"markup_description": null,
+					"pk": 26,
+					"latitude": 21.5,
+					"jsondata": {},
+					"name": "Hawai\u2018i Creole",
+					"language_pk": null,
+					"id": "26"
+				}
+			},
+			"id": "26"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.5, 18.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Jamaican",
+				"name": "Jamaican",
+				"values": [
+					{
+						"pk": 17797,
+						"valueset": {
+							"pk": 16241,
+							"description": null,
+							"contribution_pk": 8,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 8,
+							"id": "8-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "8-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16241,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -77.5,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 8,
+					"markup_description": null,
+					"pk": 8,
+					"latitude": 18.0,
+					"jsondata": {},
+					"name": "Jamaican",
+					"language_pk": null,
+					"id": "8"
+				}
+			},
+			"id": "8"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [31.016666, 4.266667]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Juba Arabic",
+				"name": "Juba Arabic",
+				"values": [
+					{
+						"pk": 17798,
+						"valueset": {
+							"pk": 16242,
+							"description": null,
+							"contribution_pk": 64,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-800080.png"
+							},
+							"source": null,
+							"language_pk": 64,
+							"id": "64-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 5,
+							"description": null,
+							"number": 6,
+							"jsondata": {
+								"color": "800080",
+								"icon": "pie-100-800080.png"
+							},
+							"name": "Arabic-based",
+							"abbr": "Arabic-based",
+							"id": "0-5",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 5,
+						"id": "64-0-5",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16242,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODAwMDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 31.016666,
+					"lexifier": "Arabic",
+					"region": "Central and East Africa",
+					"survey_pk": 64,
+					"markup_description": null,
+					"pk": 64,
+					"latitude": 4.266667,
+					"jsondata": {},
+					"name": "Juba Arabic",
+					"language_pk": null,
+					"id": "64"
+				}
+			},
+			"id": "64"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [32.083332, 0.666667]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Kinubi",
+				"name": "Kinubi",
+				"values": [
+					{
+						"pk": 17799,
+						"valueset": {
+							"pk": 16243,
+							"description": null,
+							"contribution_pk": 63,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-800080.png"
+							},
+							"source": null,
+							"language_pk": 63,
+							"id": "63-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 5,
+							"description": null,
+							"number": 6,
+							"jsondata": {
+								"color": "800080",
+								"icon": "pie-100-800080.png"
+							},
+							"name": "Arabic-based",
+							"abbr": "Arabic-based",
+							"id": "0-5",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 5,
+						"id": "63-0-5",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16243,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODAwMDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 32.083332,
+					"lexifier": "Arabic",
+					"region": "Central and East Africa",
+					"survey_pk": 63,
+					"markup_description": null,
+					"pk": 63,
+					"latitude": 0.666667,
+					"jsondata": {},
+					"name": "Kinubi",
+					"language_pk": null,
+					"id": "63"
+				}
+			},
+			"id": "63"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [72.900002, 18.516666]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Korlai",
+				"name": "Korlai",
+				"values": [
+					{
+						"pk": 17800,
+						"valueset": {
+							"pk": 16244,
+							"description": null,
+							"contribution_pk": 40,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 40,
+							"id": "40-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "40-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16244,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 72.900002,
+					"lexifier": "Portuguese",
+					"region": "South Asia",
+					"survey_pk": 40,
+					"markup_description": null,
+					"pk": 40,
+					"latitude": 18.516666,
+					"jsondata": {},
+					"name": "Korlai",
+					"language_pk": null,
+					"id": "40"
+				}
+			},
+			"id": "40"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [16.671753, -1.675176]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Lingala",
+				"name": "Lingala",
+				"values": [
+					{
+						"pk": 17801,
+						"valueset": {
+							"pk": 16245,
+							"description": null,
+							"contribution_pk": 60,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-000000.png"
+							},
+							"source": null,
+							"language_pk": 60,
+							"id": "60-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 6,
+							"description": null,
+							"number": 7,
+							"jsondata": {
+								"color": "000000",
+								"icon": "pie-100-000000.png"
+							},
+							"name": "Bantu-based",
+							"abbr": "Bantu-based",
+							"id": "0-6",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 6,
+						"id": "60-0-6",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16245,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 16.671753,
+					"lexifier": "Bantu",
+					"region": "Central and East Africa",
+					"survey_pk": 60,
+					"markup_description": null,
+					"pk": 60,
+					"latitude": -1.675176,
+					"jsondata": {},
+					"name": "Lingala",
+					"language_pk": null,
+					"id": "60"
+				}
+			},
+			"id": "60"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-91.833336, 30.166668]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Louisiana Creole",
+				"name": "Louisiana Creole",
+				"values": [
+					{
+						"pk": 17802,
+						"valueset": {
+							"pk": 16246,
+							"description": null,
+							"contribution_pk": 53,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 53,
+							"id": "53-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "53-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16246,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -91.833336,
+					"lexifier": "French",
+					"region": "North America",
+					"survey_pk": 53,
+					"markup_description": null,
+					"pk": 53,
+					"latitude": 30.166668,
+					"jsondata": {},
+					"name": "Louisiana Creole",
+					"language_pk": null,
+					"id": "53"
+				}
+			},
+			"id": "53"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [6.88, 0.33285]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Santome",
+				"name": "Santome",
+				"values": [
+					{
+						"pk": 17803,
+						"valueset": {
+							"pk": 16247,
+							"description": null,
+							"contribution_pk": 35,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 35,
+							"id": "35-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "35-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16247,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 6.88,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 35,
+					"markup_description": null,
+					"pk": 35,
+					"latitude": 0.33285,
+					"jsondata": {},
+					"name": "Santome",
+					"language_pk": null,
+					"id": "35"
+				}
+			},
+			"id": "35"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.983334, 14.633333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Martinican Creole",
+				"name": "Martinican Creole",
+				"values": [
+					{
+						"pk": 17804,
+						"valueset": {
+							"pk": 16248,
+							"description": null,
+							"contribution_pk": 51,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 51,
+							"id": "51-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "51-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16248,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -60.983334,
+					"lexifier": "French",
+					"region": "Caribbean",
+					"survey_pk": 50,
+					"markup_description": null,
+					"pk": 51,
+					"latitude": 14.633333,
+					"jsondata": {},
+					"name": "Martinican Creole",
+					"language_pk": null,
+					"id": "51"
+				}
+			},
+			"id": "51"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [58.0, -20.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Mauritian Creole",
+				"name": "Mauritian Creole",
+				"values": [
+					{
+						"pk": 17805,
+						"valueset": {
+							"pk": 16249,
+							"description": null,
+							"contribution_pk": 55,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 55,
+							"id": "55-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "55-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16249,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 58.0,
+					"lexifier": "French",
+					"region": "Indian Ocean",
+					"survey_pk": 55,
+					"markup_description": null,
+					"pk": 55,
+					"latitude": -20.0,
+					"jsondata": {},
+					"name": "Mauritian Creole",
+					"language_pk": null,
+					"id": "55"
+				}
+			},
+			"id": "55"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [38.366669, -4.533333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Mixed Ma\u2019a/Mbugu",
+				"name": "Mixed Ma\u2019a/Mbugu",
+				"values": [
+					{
+						"pk": 17806,
+						"valueset": {
+							"pk": 16250,
+							"description": null,
+							"contribution_pk": 62,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 62,
+							"id": "62-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "62-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16250,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 38.366669,
+					"lexifier": "Other",
+					"region": "Central and East Africa",
+					"survey_pk": 62,
+					"markup_description": null,
+					"pk": 62,
+					"latitude": -4.533333,
+					"jsondata": {},
+					"name": "Mixed Ma\u2019a/Mbugu",
+					"language_pk": null,
+					"id": "62"
+				}
+			},
+			"id": "62"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.199997, -1.816667]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Media Lengua",
+				"name": "Media Lengua",
+				"values": [
+					{
+						"pk": 17807,
+						"valueset": {
+							"pk": 16251,
+							"description": null,
+							"contribution_pk": 73,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF7F00.png"
+							},
+							"source": null,
+							"language_pk": 73,
+							"id": "73-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 4,
+							"description": null,
+							"number": 4,
+							"jsondata": {
+								"color": "FF7F00",
+								"icon": "pie-100-FF7F00.png"
+							},
+							"name": "Spanish-based",
+							"abbr": "Spanish-based",
+							"id": "0-4",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 4,
+						"id": "73-0-4",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16251,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkY3RjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -78.199997,
+					"lexifier": "Spanish",
+					"region": "South America",
+					"survey_pk": 73,
+					"markup_description": null,
+					"pk": 73,
+					"latitude": -1.816667,
+					"jsondata": {},
+					"name": "Media Lengua",
+					"language_pk": null,
+					"id": "73"
+				}
+			},
+			"id": "73"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-64.75, 18.333332]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Negerhollands",
+				"name": "Negerhollands",
+				"values": [
+					{
+						"pk": 17810,
+						"valueset": {
+							"pk": 16253,
+							"description": null,
+							"contribution_pk": 27,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-ADD8E6.png"
+							},
+							"source": null,
+							"language_pk": 27,
+							"id": "27-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 7,
+							"description": null,
+							"number": 2,
+							"jsondata": {
+								"color": "ADD8E6",
+								"icon": "pie-100-ADD8E6.png"
+							},
+							"name": "Dutch-based",
+							"abbr": "Dutch-based",
+							"id": "0-7",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 7,
+						"id": "27-0-7",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16253,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojQUREOEU2OyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -64.75,
+					"lexifier": "Dutch",
+					"region": "Caribbean",
+					"survey_pk": 27,
+					"markup_description": null,
+					"pk": 27,
+					"latitude": 18.333332,
+					"jsondata": {},
+					"name": "Negerhollands",
+					"language_pk": null,
+					"id": "27"
+				}
+			},
+			"id": "27"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-54.415283, 4.302591]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Nengee",
+				"name": "Nengee",
+				"values": [
+					{
+						"pk": 17811,
+						"valueset": {
+							"pk": 16254,
+							"description": null,
+							"contribution_pk": 4,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 4,
+							"id": "4-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "4-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16254,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -54.415283,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 4,
+					"markup_description": null,
+					"pk": 4,
+					"latitude": 4.302591,
+					"jsondata": {},
+					"name": "Nengee",
+					"language_pk": null,
+					"id": "4"
+				}
+			},
+			"id": "4"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-83.75, 12.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Nicaraguan Creole English",
+				"name": "Nicaraguan Creole English",
+				"values": [
+					{
+						"pk": 17812,
+						"valueset": {
+							"pk": 16255,
+							"description": null,
+							"contribution_pk": 11,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 11,
+							"id": "11-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "11-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16255,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -83.75,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 11,
+					"markup_description": null,
+					"pk": 11,
+					"latitude": 12.0,
+					"jsondata": {},
+					"name": "Nicaraguan Creole English",
+					"language_pk": null,
+					"id": "11"
+				}
+			},
+			"id": "11"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [5.564575, 6.358975]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Nigerian Pidgin",
+				"name": "Nigerian Pidgin",
+				"values": [
+					{
+						"pk": 17813,
+						"valueset": {
+							"pk": 16256,
+							"description": null,
+							"contribution_pk": 17,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 17,
+							"id": "17-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "17-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16256,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 5.564575,
+					"lexifier": "English",
+					"region": "West Africa",
+					"survey_pk": 17,
+					"markup_description": null,
+					"pk": 17,
+					"latitude": 6.358975,
+					"jsondata": {},
+					"name": "Nigerian Pidgin",
+					"language_pk": null,
+					"id": "17"
+				}
+			},
+			"id": "17"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.198807, 10.10318]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Palenquero",
+				"name": "Palenquero",
+				"values": [
+					{
+						"pk": 17814,
+						"valueset": {
+							"pk": 16257,
+							"description": null,
+							"contribution_pk": 48,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF7F00.png"
+							},
+							"source": null,
+							"language_pk": 48,
+							"id": "48-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 4,
+							"description": null,
+							"number": 4,
+							"jsondata": {
+								"color": "FF7F00",
+								"icon": "pie-100-FF7F00.png"
+							},
+							"name": "Spanish-based",
+							"abbr": "Spanish-based",
+							"id": "0-4",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 4,
+						"id": "48-0-4",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16257,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkY3RjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -75.198807,
+					"lexifier": "Spanish",
+					"region": "Caribbean",
+					"survey_pk": 48,
+					"markup_description": null,
+					"pk": 48,
+					"latitude": 10.10318,
+					"jsondata": {},
+					"name": "Palenquero",
+					"language_pk": null,
+					"id": "48"
+				}
+			},
+			"id": "48"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [102.251129, 2.225545]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Papi\u00e1 Kristang",
+				"name": "Papi\u00e1 Kristang",
+				"values": [
+					{
+						"pk": 17815,
+						"valueset": {
+							"pk": 16258,
+							"description": null,
+							"contribution_pk": 42,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 42,
+							"id": "42-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "42-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16258,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 102.251129,
+					"lexifier": "Portuguese",
+					"region": "Southeast Asia",
+					"survey_pk": 42,
+					"markup_description": null,
+					"pk": 42,
+					"latitude": 2.225545,
+					"jsondata": {},
+					"name": "Papi\u00e1 Kristang",
+					"language_pk": null,
+					"id": "42"
+				}
+			},
+			"id": "42"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [8.779449, 3.754634]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Pichi",
+				"name": "Pichi",
+				"values": [
+					{
+						"pk": 17816,
+						"valueset": {
+							"pk": 16259,
+							"description": null,
+							"contribution_pk": 19,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 19,
+							"id": "19-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "19-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16259,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 8.779449,
+					"lexifier": "English",
+					"region": "West Africa",
+					"survey_pk": 19,
+					"markup_description": null,
+					"pk": 19,
+					"latitude": 3.754634,
+					"jsondata": {},
+					"name": "Pichi",
+					"language_pk": null,
+					"id": "19"
+				}
+			},
+			"id": "19"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [178.088379, -17.905569]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Pidgin Hindustani",
+				"name": "Pidgin Hindustani",
+				"values": [
+					{
+						"pk": 17817,
+						"valueset": {
+							"pk": 16260,
+							"description": null,
+							"contribution_pk": 70,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 70,
+							"id": "70-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "70-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16260,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 178.088379,
+					"lexifier": "Other",
+					"region": "Pacific",
+					"survey_pk": 70,
+					"markup_description": null,
+					"pk": 70,
+					"latitude": -17.905569,
+					"jsondata": {},
+					"name": "Pidgin Hindustani",
+					"language_pk": null,
+					"id": "70"
+				}
+			},
+			"id": "70"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [7.366667, 1.616667]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Principense",
+				"name": "Principense",
+				"values": [
+					{
+						"pk": 17818,
+						"valueset": {
+							"pk": 16261,
+							"description": null,
+							"contribution_pk": 37,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 37,
+							"id": "37-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "37-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16261,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 7.366667,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 37,
+					"markup_description": null,
+					"pk": 37,
+					"latitude": 1.616667,
+					"jsondata": {},
+					"name": "Principense",
+					"language_pk": null,
+					"id": "37"
+				}
+			},
+			"id": "37"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [55.650002, -20.950001]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Reunion Creole",
+				"name": "Reunion Creole",
+				"values": [
+					{
+						"pk": 17819,
+						"valueset": {
+							"pk": 16262,
+							"description": null,
+							"contribution_pk": 54,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 54,
+							"id": "54-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "54-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16262,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 55.650002,
+					"lexifier": "French",
+					"region": "Indian Ocean",
+					"survey_pk": 54,
+					"markup_description": null,
+					"pk": 54,
+					"latitude": -20.950001,
+					"jsondata": {},
+					"name": "Reunion Creole",
+					"language_pk": null,
+					"id": "54"
+				}
+			},
+			"id": "54"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [135.0, -14.833333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Kriol",
+				"name": "Kriol",
+				"values": [
+					{
+						"pk": 17820,
+						"valueset": {
+							"pk": 16263,
+							"description": null,
+							"contribution_pk": 25,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 25,
+							"id": "25-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "25-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16263,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 135.0,
+					"lexifier": "English",
+					"region": "Australia",
+					"survey_pk": 25,
+					"markup_description": null,
+					"pk": 25,
+					"latitude": -14.833333,
+					"jsondata": {},
+					"name": "Kriol",
+					"language_pk": null,
+					"id": "25"
+				}
+			},
+			"id": "25"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.366669, 13.35]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "San Andres Creole English",
+				"name": "San Andres Creole English",
+				"values": [
+					{
+						"pk": 17821,
+						"valueset": {
+							"pk": 16264,
+							"description": null,
+							"contribution_pk": 10,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 10,
+							"id": "10-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "10-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16264,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -81.366669,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 10,
+					"markup_description": null,
+					"pk": 10,
+					"latitude": 13.35,
+					"jsondata": {},
+					"name": "San Andres Creole English",
+					"language_pk": null,
+					"id": "10"
+				}
+			},
+			"id": "10"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [18.0, 5.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Sango",
+				"name": "Sango",
+				"values": [
+					{
+						"pk": 17822,
+						"valueset": {
+							"pk": 16265,
+							"description": null,
+							"contribution_pk": 59,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 59,
+							"id": "59-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "59-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16265,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 18.0,
+					"lexifier": "Other",
+					"region": "Central and East Africa",
+					"survey_pk": 59,
+					"markup_description": null,
+					"pk": 59,
+					"latitude": 5.0,
+					"jsondata": {},
+					"name": "Sango",
+					"language_pk": null,
+					"id": "59"
+				}
+			},
+			"id": "59"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-55.5, 4.5]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Saramaccan",
+				"name": "Saramaccan",
+				"values": [
+					{
+						"pk": 17823,
+						"valueset": {
+							"pk": 16266,
+							"description": null,
+							"contribution_pk": 3,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 3,
+							"id": "3-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "3-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16266,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -55.5,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 3,
+					"markup_description": null,
+					"pk": 3,
+					"latitude": 4.5,
+					"jsondata": {},
+					"name": "Saramaccan",
+					"language_pk": null,
+					"id": "3"
+				}
+			},
+			"id": "3"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [55.5, -4.75]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Seychelles Creole",
+				"name": "Seychelles Creole",
+				"values": [
+					{
+						"pk": 17824,
+						"valueset": {
+							"pk": 16267,
+							"description": null,
+							"contribution_pk": 56,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 56,
+							"id": "56-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "56-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16267,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 55.5,
+					"lexifier": "French",
+					"region": "Indian Ocean",
+					"survey_pk": 56,
+					"markup_description": null,
+					"pk": 56,
+					"latitude": -4.75,
+					"jsondata": {},
+					"name": "Seychelles Creole",
+					"language_pk": null,
+					"id": "56"
+				}
+			},
+			"id": "56"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-13.2, 8.483333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Krio",
+				"name": "Krio",
+				"values": [
+					{
+						"pk": 17825,
+						"valueset": {
+							"pk": 16268,
+							"description": null,
+							"contribution_pk": 15,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 15,
+							"id": "15-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "15-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16268,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -13.2,
+					"lexifier": "English",
+					"region": "West Africa",
+					"survey_pk": 15,
+					"markup_description": null,
+					"pk": 15,
+					"latitude": 8.483333,
+					"jsondata": {},
+					"name": "Krio",
+					"language_pk": null,
+					"id": "15"
+				}
+			},
+			"id": "15"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.7, 1.33]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Singlish",
+				"name": "Singlish",
+				"values": [
+					{
+						"pk": 17826,
+						"valueset": {
+							"pk": 16269,
+							"description": null,
+							"contribution_pk": 21,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 21,
+							"id": "21-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "21-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16269,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 101.7,
+					"lexifier": "English",
+					"region": "Southeast Asia",
+					"survey_pk": null,
+					"markup_description": null,
+					"pk": 21,
+					"latitude": 1.33,
+					"jsondata": {},
+					"name": "Singlish",
+					"language_pk": null,
+					"id": "21"
+				}
+			},
+			"id": "21"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-55.0, 5.833333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Sranan",
+				"name": "Sranan",
+				"values": [
+					{
+						"pk": 17827,
+						"valueset": {
+							"pk": 16270,
+							"description": null,
+							"contribution_pk": 2,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 2,
+							"id": "2-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "2-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16270,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -55.0,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 2,
+					"markup_description": null,
+					"pk": 2,
+					"latitude": 5.833333,
+					"jsondata": {},
+					"name": "Sranan",
+					"language_pk": null,
+					"id": "2"
+				}
+			},
+			"id": "2"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [81.25, 7.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Sri Lankan Malay",
+				"name": "Sri Lankan Malay",
+				"values": [
+					{
+						"pk": 17828,
+						"valueset": {
+							"pk": 16271,
+							"description": null,
+							"contribution_pk": 66,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFB6C1.png"
+							},
+							"source": null,
+							"language_pk": 66,
+							"id": "66-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 8,
+							"description": null,
+							"number": 8,
+							"jsondata": {
+								"color": "FFB6C1",
+								"icon": "pie-100-FFB6C1.png"
+							},
+							"name": "Malay-based",
+							"abbr": "Malay-based",
+							"id": "0-8",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 8,
+						"id": "66-0-8",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16271,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZCNkMxOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 81.25,
+					"lexifier": "Malay",
+					"region": "South Asia",
+					"survey_pk": 66,
+					"markup_description": null,
+					"pk": 66,
+					"latitude": 7.0,
+					"jsondata": {},
+					"name": "Sri Lankan Malay",
+					"language_pk": null,
+					"id": "66"
+				}
+			},
+			"id": "66"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [81.686096, 8.5]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Sri Lanka Portuguese",
+				"name": "Sri Lanka Portuguese",
+				"values": [
+					{
+						"pk": 17829,
+						"valueset": {
+							"pk": 16272,
+							"description": null,
+							"contribution_pk": 41,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 41,
+							"id": "41-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "41-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16272,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 81.686096,
+					"lexifier": "Portuguese",
+					"region": "South Asia",
+					"survey_pk": 41,
+					"markup_description": null,
+					"pk": 41,
+					"latitude": 8.5,
+					"jsondata": {},
+					"name": "Sri Lanka Portuguese",
+					"language_pk": null,
+					"id": "41"
+				}
+			},
+			"id": "41"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [166.333328, -22.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Tayo",
+				"name": "Tayo",
+				"values": [
+					{
+						"pk": 17830,
+						"valueset": {
+							"pk": 16273,
+							"description": null,
+							"contribution_pk": 57,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF0000.png"
+							},
+							"source": null,
+							"language_pk": 57,
+							"id": "57-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "57-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16273,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkYwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 166.333328,
+					"lexifier": "French",
+					"region": "Pacific",
+					"survey_pk": 57,
+					"markup_description": null,
+					"pk": 57,
+					"latitude": -22.0,
+					"jsondata": {},
+					"name": "Tayo",
+					"language_pk": null,
+					"id": "57"
+				}
+			},
+			"id": "57"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.675201, 13.269707]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Ternate Chabacano",
+				"name": "Ternate Chabacano",
+				"values": [
+					{
+						"pk": 17831,
+						"valueset": {
+							"pk": 16274,
+							"description": null,
+							"contribution_pk": 44,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF7F00.png"
+							},
+							"source": null,
+							"language_pk": 44,
+							"id": "44-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 4,
+							"description": null,
+							"number": 4,
+							"jsondata": {
+								"color": "FF7F00",
+								"icon": "pie-100-FF7F00.png"
+							},
+							"name": "Spanish-based",
+							"abbr": "Spanish-based",
+							"id": "0-4",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 4,
+						"id": "44-0-4",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16274,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkY3RjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 120.675201,
+					"lexifier": "Spanish",
+					"region": "Southeast Asia",
+					"survey_pk": 44,
+					"markup_description": null,
+					"pk": 44,
+					"latitude": 13.269707,
+					"jsondata": {},
+					"name": "Ternate Chabacano",
+					"language_pk": null,
+					"id": "44"
+				}
+			},
+			"id": "44"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [147.166672, -9.5]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Tok Pisin",
+				"name": "Tok Pisin",
+				"values": [
+					{
+						"pk": 17832,
+						"valueset": {
+							"pk": 16275,
+							"description": null,
+							"contribution_pk": 22,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 22,
+							"id": "22-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "22-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16275,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 147.166672,
+					"lexifier": "English",
+					"region": "Pacific",
+					"survey_pk": 22,
+					"markup_description": null,
+					"pk": 22,
+					"latitude": -9.5,
+					"jsondata": {},
+					"name": "Tok Pisin",
+					"language_pk": null,
+					"id": "22"
+				}
+			},
+			"id": "22"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.283333, 10.633333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Trinidad English Creole",
+				"name": "Trinidad English Creole",
+				"values": [
+					{
+						"pk": 17833,
+						"valueset": {
+							"pk": 16276,
+							"description": null,
+							"contribution_pk": 6,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 6,
+							"id": "6-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "6-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16276,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -61.283333,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 6,
+					"markup_description": null,
+					"pk": 6,
+					"latitude": 10.633333,
+					"jsondata": {},
+					"name": "Trinidad English Creole",
+					"language_pk": null,
+					"id": "6"
+				}
+			},
+			"id": "6"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.216667, 13.133333]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Vincentian Creole",
+				"name": "Vincentian Creole",
+				"values": [
+					{
+						"pk": 17834,
+						"valueset": {
+							"pk": 16277,
+							"description": null,
+							"contribution_pk": 7,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 7,
+							"id": "7-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "7-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16277,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -61.216667,
+					"lexifier": "English",
+					"region": "Caribbean",
+					"survey_pk": 7,
+					"markup_description": null,
+					"pk": 7,
+					"latitude": 13.133333,
+					"jsondata": {},
+					"name": "Vincentian Creole",
+					"language_pk": null,
+					"id": "7"
+				}
+			},
+			"id": "7"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [143.550003, -4.666667]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Yimas-Arafundi Pidgin",
+				"name": "Yimas-Arafundi Pidgin",
+				"values": [
+					{
+						"pk": 17835,
+						"valueset": {
+							"pk": 16278,
+							"description": null,
+							"contribution_pk": 69,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 69,
+							"id": "69-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "69-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16278,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 143.550003,
+					"lexifier": "Other",
+					"region": "Pacific",
+					"survey_pk": 69,
+					"markup_description": null,
+					"pk": 69,
+					"latitude": -4.666667,
+					"jsondata": {},
+					"name": "Yimas-Arafundi Pidgin",
+					"language_pk": null,
+					"id": "69"
+				}
+			},
+			"id": "69"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [122.083336, 7.0]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Zamboanga Chabacano",
+				"name": "Zamboanga Chabacano",
+				"values": [
+					{
+						"pk": 17836,
+						"valueset": {
+							"pk": 16279,
+							"description": null,
+							"contribution_pk": 46,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF7F00.png"
+							},
+							"source": null,
+							"language_pk": 46,
+							"id": "46-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 4,
+							"description": null,
+							"number": 4,
+							"jsondata": {
+								"color": "FF7F00",
+								"icon": "pie-100-FF7F00.png"
+							},
+							"name": "Spanish-based",
+							"abbr": "Spanish-based",
+							"id": "0-4",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 4,
+						"id": "46-0-4",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16279,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkY3RjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 122.083336,
+					"lexifier": "Spanish",
+					"region": "Southeast Asia",
+					"survey_pk": 46,
+					"markup_description": null,
+					"pk": 46,
+					"latitude": 7.0,
+					"jsondata": {},
+					"name": "Zamboanga Chabacano",
+					"language_pk": null,
+					"id": "46"
+				}
+			},
+			"id": "46"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [17.666016, -4.565474]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Kikongo-Kituba",
+				"name": "Kikongo-Kituba",
+				"values": [
+					{
+						"pk": 17837,
+						"valueset": {
+							"pk": 16280,
+							"description": null,
+							"contribution_pk": 58,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-000000.png"
+							},
+							"source": null,
+							"language_pk": 58,
+							"id": "58-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 6,
+							"description": null,
+							"number": 7,
+							"jsondata": {
+								"color": "000000",
+								"icon": "pie-100-000000.png"
+							},
+							"name": "Bantu-based",
+							"abbr": "Bantu-based",
+							"id": "0-6",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 6,
+						"id": "58-0-6",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16280,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMDAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 17.666016,
+					"lexifier": "Bantu",
+					"region": "Central and East Africa",
+					"survey_pk": 58,
+					"markup_description": null,
+					"pk": 58,
+					"latitude": -4.565474,
+					"jsondata": {},
+					"name": "Kikongo-Kituba",
+					"language_pk": null,
+					"id": "58"
+				}
+			},
+			"id": "58"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [167.957947, -29.033209]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Norf'k",
+				"name": "Norf'k",
+				"values": [
+					{
+						"pk": 17838,
+						"valueset": {
+							"pk": 16281,
+							"description": null,
+							"contribution_pk": 24,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-0000FF.png"
+							},
+							"source": null,
+							"language_pk": 24,
+							"id": "24-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "24-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16281,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojMDAwMEZGOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 167.957947,
+					"lexifier": "English",
+					"region": "Pacific",
+					"survey_pk": 24,
+					"markup_description": null,
+					"pk": 24,
+					"latitude": -29.033209,
+					"jsondata": {},
+					"name": "Norf'k",
+					"language_pk": null,
+					"id": "24"
+				}
+			},
+			"id": "24"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-69.0, 12.25]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Papiamentu",
+				"name": "Papiamentu",
+				"values": [
+					{
+						"pk": 17839,
+						"valueset": {
+							"pk": 16282,
+							"description": null,
+							"contribution_pk": 47,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF7F00.png"
+							},
+							"source": null,
+							"language_pk": 47,
+							"id": "47-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 4,
+							"description": null,
+							"number": 4,
+							"jsondata": {
+								"color": "FF7F00",
+								"icon": "pie-100-FF7F00.png"
+							},
+							"name": "Spanish-based",
+							"abbr": "Spanish-based",
+							"id": "0-4",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 4,
+						"id": "47-0-4",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16282,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkY3RjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -69.0,
+					"lexifier": "Spanish",
+					"region": "Caribbean",
+					"survey_pk": 47,
+					"markup_description": null,
+					"pk": 47,
+					"latitude": 12.25,
+					"jsondata": {},
+					"name": "Papiamentu",
+					"language_pk": null,
+					"id": "47"
+				}
+			},
+			"id": "47"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-156.85, 19.8]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Pidgin Hawaiian",
+				"name": "Pidgin Hawaiian",
+				"values": [
+					{
+						"pk": 17840,
+						"valueset": {
+							"pk": 16283,
+							"description": null,
+							"contribution_pk": 71,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-808080.png"
+							},
+							"source": null,
+							"language_pk": 71,
+							"id": "71-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "71-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16283,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojODA4MDgwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -156.85,
+					"lexifier": "Other",
+					"region": "Pacific",
+					"survey_pk": 71,
+					"markup_description": null,
+					"pk": 71,
+					"latitude": 19.8,
+					"jsondata": {},
+					"name": "Pidgin Hawaiian",
+					"language_pk": null,
+					"id": "71"
+				}
+			},
+			"id": "71"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.9, 14.7]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Cavite Chabacano",
+				"name": "Cavite Chabacano",
+				"values": [
+					{
+						"pk": 17841,
+						"valueset": {
+							"pk": 16284,
+							"description": null,
+							"contribution_pk": 45,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FF7F00.png"
+							},
+							"source": null,
+							"language_pk": 45,
+							"id": "45-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 4,
+							"description": null,
+							"number": 4,
+							"jsondata": {
+								"color": "FF7F00",
+								"icon": "pie-100-FF7F00.png"
+							},
+							"name": "Spanish-based",
+							"abbr": "Spanish-based",
+							"id": "0-4",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 4,
+						"id": "45-0-4",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16284,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkY3RjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": 120.9,
+					"lexifier": "Spanish",
+					"region": "Southeast Asia",
+					"survey_pk": 45,
+					"markup_description": null,
+					"pk": 45,
+					"latitude": 14.7,
+					"jsondata": {},
+					"name": "Cavite Chabacano",
+					"language_pk": null,
+					"id": "45"
+				}
+			},
+			"id": "45"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-16.274, 12.7]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Casamancese Creole",
+				"name": "Casamancese Creole",
+				"values": [
+					{
+						"pk": 17842,
+						"valueset": {
+							"pk": 16285,
+							"description": null,
+							"contribution_pk": 34,
+							"jsondata": {
+								"_number_of_values": 1,
+								"icon": "pie-100-FFFF00.png"
+							},
+							"source": null,
+							"language_pk": 34,
+							"id": "34-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 3,
+							"description": null,
+							"number": 3,
+							"jsondata": {
+								"color": "FFFF00",
+								"icon": "pie-100-FFFF00.png"
+							},
+							"name": "Portuguese-based",
+							"abbr": "Portuguese-based",
+							"id": "0-3",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 3,
+						"id": "34-0-3",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-100.png"
+						},
+						"name": null,
+						"valueset_pk": 16285,
+						"markup_description": null,
+						"frequency": 100.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8Y2lyY2xlIGN4PSIxNy4wIiBjeT0iMTcuMCIgcj0iMTYuMCIgc3R5bGU9InN0cm9rZTpibGFjazsgZmlsbDojRkZGRjAwOyI+PC9jaXJjbGU+Cjwvc3ZnPg==",
+				"language": {
+					"description": null,
+					"longitude": -16.274,
+					"lexifier": "Portuguese",
+					"region": "West Africa",
+					"survey_pk": 34,
+					"markup_description": null,
+					"pk": 34,
+					"latitude": 12.7,
+					"jsondata": {},
+					"name": "Casamancese Creole",
+					"language_pk": null,
+					"id": "34"
+				}
+			},
+			"id": "34"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [130.983337, -17.450001]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Gurindji Kriol",
+				"name": "Gurindji Kriol",
+				"values": [
+					{
+						"pk": 17791,
+						"valueset": {
+							"pk": 16236,
+							"description": null,
+							"contribution_pk": 72,
+							"jsondata": {
+								"_number_of_values": 2,
+								"icon": "pie-50-0000FF-50-808080.png"
+							},
+							"source": null,
+							"language_pk": 72,
+							"id": "72-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 1,
+							"description": null,
+							"number": 1,
+							"jsondata": {
+								"color": "0000FF",
+								"icon": "pie-100-0000FF.png"
+							},
+							"name": "English-based",
+							"abbr": "English-based",
+							"id": "0-1",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 1,
+						"id": "72-0-1",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-50.png"
+						},
+						"name": null,
+						"valueset_pk": 16236,
+						"markup_description": null,
+						"frequency": 50.0
+					},
+					{
+						"pk": 17792,
+						"valueset": {
+							"pk": 16236,
+							"description": null,
+							"contribution_pk": 72,
+							"jsondata": {
+								"_number_of_values": 2,
+								"icon": "pie-50-0000FF-50-808080.png"
+							},
+							"source": null,
+							"language_pk": 72,
+							"id": "72-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "72-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-50.png"
+						},
+						"name": null,
+						"valueset_pk": 16236,
+						"markup_description": null,
+						"frequency": 50.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8cGF0aCBkPSJNMTcuMCwxNy4wIEwxLjAsMTcuMCBBMTYuMCwxNi4wIDAgMCwxIDMzLjAgMTcuMCBMMTcuMCwxNy4wIiBzdHlsZT0iZmlsbDojMDAwMEZGO3N0cm9rZTpub25lOyIgdHJhbnNmb3JtPSJyb3RhdGUoOTAgMTcuMCAxNy4wKSI+PC9wYXRoPjxwYXRoIGQ9Ik0xNy4wLDE3LjAgTDMzLjAsMTcuMCBBMTYuMCwxNi4wIDAgMCwxIDEuMCAxNy4wIEwxNy4wLDE3LjAiIHN0eWxlPSJmaWxsOiM4MDgwODA7c3Ryb2tlOm5vbmU7IiB0cmFuc2Zvcm09InJvdGF0ZSg5MCAxNy4wIDE3LjApIj48L3BhdGg+PGNpcmNsZSBjeD0iMTcuMCIgY3k9IjE3LjAiIHI9IjE2LjAiIHN0eWxlPSJzdHJva2U6YmxhY2s7IGZpbGw6bm9uZTsiLz4KPC9zdmc+",
+				"language": {
+					"description": null,
+					"longitude": 130.983337,
+					"lexifier": "Other",
+					"region": "Australia",
+					"survey_pk": 72,
+					"markup_description": null,
+					"pk": 72,
+					"latitude": -17.450001,
+					"jsondata": {},
+					"name": "Gurindji Kriol",
+					"language_pk": null,
+					"id": "72"
+				}
+			},
+			"id": "72"
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-99.800003, 48.833332]
+			},
+			"type": "Feature",
+			"properties": {
+				"label": "Michif",
+				"name": "Michif",
+				"values": [
+					{
+						"pk": 17808,
+						"valueset": {
+							"pk": 16252,
+							"description": null,
+							"contribution_pk": 75,
+							"jsondata": {
+								"_number_of_values": 2,
+								"icon": "pie-50-FF0000-50-808080.png"
+							},
+							"source": null,
+							"language_pk": 75,
+							"id": "75-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 9,
+							"description": null,
+							"number": 9,
+							"jsondata": {
+								"color": "808080",
+								"icon": "pie-100-808080.png"
+							},
+							"name": "Other-based",
+							"abbr": "Other-based",
+							"id": "0-9",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 9,
+						"id": "75-0-9",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-50.png"
+						},
+						"name": null,
+						"valueset_pk": 16252,
+						"markup_description": null,
+						"frequency": 50.0
+					},
+					{
+						"pk": 17809,
+						"valueset": {
+							"pk": 16252,
+							"description": null,
+							"contribution_pk": 75,
+							"jsondata": {
+								"_number_of_values": 2,
+								"icon": "pie-50-FF0000-50-808080.png"
+							},
+							"source": null,
+							"language_pk": 75,
+							"id": "75-0",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement": {
+							"pk": 2,
+							"description": null,
+							"number": 5,
+							"jsondata": {
+								"color": "FF0000",
+								"icon": "pie-100-FF0000.png"
+							},
+							"name": "French-based",
+							"abbr": "French-based",
+							"id": "0-2",
+							"parameter_pk": 1,
+							"markup_description": null
+						},
+						"domainelement_pk": 2,
+						"id": "75-0-2",
+						"description": null,
+						"confidence": null,
+						"jsondata": {
+							"frequency_icon": "freq-50.png"
+						},
+						"name": null,
+						"valueset_pk": 16252,
+						"markup_description": null,
+						"frequency": 50.0
+					}
+				],
+				"icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIzNCIgd2lkdGg9IjM0Ij4KICA8cGF0aCBkPSJNMTcuMCwxNy4wIEwxLjAsMTcuMCBBMTYuMCwxNi4wIDAgMCwxIDMzLjAgMTcuMCBMMTcuMCwxNy4wIiBzdHlsZT0iZmlsbDojRkYwMDAwO3N0cm9rZTpub25lOyIgdHJhbnNmb3JtPSJyb3RhdGUoOTAgMTcuMCAxNy4wKSI+PC9wYXRoPjxwYXRoIGQ9Ik0xNy4wLDE3LjAgTDMzLjAsMTcuMCBBMTYuMCwxNi4wIDAgMCwxIDEuMCAxNy4wIEwxNy4wLDE3LjAiIHN0eWxlPSJmaWxsOiM4MDgwODA7c3Ryb2tlOm5vbmU7IiB0cmFuc2Zvcm09InJvdGF0ZSg5MCAxNy4wIDE3LjApIj48L3BhdGg+PGNpcmNsZSBjeD0iMTcuMCIgY3k9IjE3LjAiIHI9IjE2LjAiIHN0eWxlPSJzdHJva2U6YmxhY2s7IGZpbGw6bm9uZTsiLz4KPC9zdmc+",
+				"language": {
+					"description": null,
+					"longitude": -99.800003,
+					"lexifier": "Other",
+					"region": "North America",
+					"survey_pk": 75,
+					"markup_description": null,
+					"pk": 75,
+					"latitude": 48.833332,
+					"jsondata": {},
+					"name": "Michif",
+					"language_pk": null,
+					"id": "75"
+				}
+			},
+			"id": "75"
+		}
+	]
+}
